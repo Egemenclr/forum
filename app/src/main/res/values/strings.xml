@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">forum</string>
+    <string name="tab_text_1">Sinema</string>
+    <string name="tab_text_2">Kitap</string>
+</resources>
